@@ -61,7 +61,10 @@
 
 ## Screenshots
 
-*(Add your screenshot links or drag images into the repo and link them here)*
+https://github.com/SKEETZEN0X/GhostX-CS2-External/blob/76987cf7b84c063412be1b16855f8a46f57d6acd/ghostx/project/resources/aimbot.png
+https://github.com/SKEETZEN0X/GhostX-CS2-External/blob/76987cf7b84c063412be1b16855f8a46f57d6acd/ghostx/project/resources/config.png
+https://github.com/SKEETZEN0X/GhostX-CS2-External/blob/76987cf7b84c063412be1b16855f8a46f57d6acd/ghostx/project/resources/misc.png
+https://github.com/SKEETZEN0X/GhostX-CS2-External/blob/76987cf7b84c063412be1b16855f8a46f57d6acd/ghostx/project/resources/visuals.png
 
 <!-- Example:
 ![Menu](screenshots/menu.png)
