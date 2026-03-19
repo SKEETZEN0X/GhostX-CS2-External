@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <ItemGroup>
+    <ClCompile Include="entry.cpp" />
+    <ClCompile Include="overlay\imgui\imgui.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_demo.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_draw.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_impl_dx11.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_impl_win32.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_tables.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_widgets.cpp" />
+    <ClCompile Include="overlay\Overlay\overlay.cpp" />
+    <ClCompile Include="overlay\imgui\TextEditor.cpp" />
+    <ClCompile Include="overlay\imgui\addon.cpp" />
+    <ClCompile Include="overlay\imgui\backends\imgui_impl_dx11.cpp" />
+    <ClCompile Include="overlay\imgui\backends\imgui_impl_win32.cpp" />
+    <ClCompile Include="overlay\imgui\misc\freetype\imgui_freetype.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_toggle.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_toggle_palette.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_toggle_presets.cpp" />
+    <ClCompile Include="overlay\imgui\imgui_toggle_renderer.cpp" />
+    <ClCompile Include="source\configs\configs.cpp" />
+    <ClCompile Include="overlay\imgui\avatar.hpp" />
+    <ClCompile Include="overlay\gui.cpp" />
+    <ClCompile Include="overlay\gui\init_static.cpp" />
+    <ClCompile Include="overlay\gui\elements\buttons.cpp" />
+    <ClCompile Include="overlay\gui\elements\checkbox.cpp" />
+    <ClCompile Include="overlay\gui\elements\child.cpp" />
+    <ClCompile Include="overlay\gui\elements\color_picker.cpp" />
+    <ClCompile Include="overlay\gui\elements\combo.cpp" />
+    <ClCompile Include="overlay\gui\elements\draw.cpp" />
+    <ClCompile Include="overlay\gui\elements\helpers.cpp" />
+    <ClCompile Include="overlay\gui\elements\input_text.cpp" />
+    <ClCompile Include="overlay\gui\elements\keybind_list.cpp" />
+    <ClCompile Include="overlay\gui\elements\notify.cpp" />
+    <ClCompile Include="overlay\gui\elements\slider.cpp" />
+    <ClCompile Include="overlay\gui\elements\tab_button.cpp" />
+    <ClCompile Include="overlay\gui\elements\tab_info.cpp" />
+    <ClCompile Include="overlay\gui\elements\window.cpp" />
+    </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\storage\Globals.hpp" />
+    <ClInclude Include="source\storage\include.h" />
+    <ClInclude Include="overlay\imgui\imconfig.h" />
+    <ClInclude Include="overlay\imgui\imgui.h" />
+    <ClInclude Include="overlay\imgui\imgui_impl_dx11.h" />
+    <ClInclude Include="overlay\imgui\imgui_impl_win32.h" />
+    <ClInclude Include="overlay\imgui\imgui_internal.h" />
+    <ClInclude Include="overlay\imgui\imstb_rectpack.h" />
+    <ClInclude Include="overlay\imgui\imstb_textedit.h" />
+    <ClInclude Include="overlay\imgui\imstb_truetype.h" />
+    <ClInclude Include="overlay\xorstr\json.hpp" />
+    <ClInclude Include="overlay\xorstr\xorstr.hpp" />
+    <ClInclude Include="overlay\Overlay\overlay.hpp" />
+    <ClInclude Include="overlay\ckeybind\keybind.hpp" />
+    <ClInclude Include="overlay\imgui\TextEditor.h" />
+    <ClInclude Include="overlay\imgui\addon.hpp" />
+    <ClInclude Include="overlay\Overlay\stb_image.h" />
+    <ClInclude Include="overlay\Overlay\image.h" />
+    <ClInclude Include="overlay\imgui\backends\imgui_impl_dx11.h" />
+    <ClInclude Include="overlay\imgui\backends\imgui_impl_win32.h" />
+    <ClInclude Include="overlay\imgui\misc\freetype\ft2build.h" />
+    <ClInclude Include="overlay\imgui\misc\freetype\imgui_freetype.h" />
+    <ClInclude Include="overlay\imgui\imgui_offset_rect.h" />
+    <ClInclude Include="overlay\imgui\imgui_toggle.h" />
+    <ClInclude Include="overlay\imgui\imgui_toggle_math.h" />
+    <ClInclude Include="overlay\imgui\imgui_toggle_palette.h" />
+    <ClInclude Include="overlay\imgui\imgui_toggle_presets.h" />
+    <ClInclude Include="overlay\imgui\imgui_toggle_renderer.h" />
+    <ClInclude Include="overlay\imgui\includes.h" />
+    <ClInclude Include="source\configs\configs.hpp" />
+    <ClInclude Include="overlay\Overlay\obfuscator.hpp" />
+    <ClInclude Include="overlay\Overlay\tahoma.h" />
+    <ClInclude Include="overlay\Overlay\seekinblood.h" />
+    <ClInclude Include="overlay\gui\settings\colors.h" />
+    <ClInclude Include="overlay\gui\settings\elements.h" />
+    <ClInclude Include="overlay\gui\settings\functions.h" />
+    <ClInclude Include="overlay\gui\settings\variables.h" />
+    <ClInclude Include="overlay\gui\data\fonts.h" />
+    <ClInclude Include="overlay\gui\data\images.h" />
+    <ClInclude Include="overlay\Overlay\gui2.h" />
+    </ItemGroup>
+  <ItemGroup>
+    <Library Include="d3dx11.lib" />
+    <Library Include="overlay\imgui\misc\freetype\freetype.lib" />
+    </ItemGroup>
+</Project>
