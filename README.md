@@ -57,7 +57,7 @@
 | Key       | Action                  |
 |-----------|-------------------------|
 | **Insert**| Open / close menu      |
-| **Logo**  | (in menu) – click to unload / safely detach the cheat |
+| **Settings logo**  | (in menu) – click to unload / safely detach the cheat |
 
 ## Screenshots
 
