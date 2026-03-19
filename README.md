@@ -61,10 +61,10 @@
 
 ## Screenshots
 
-https://raw.githubusercontent.com/SKEETZEN0X/GhostX-CS2-External/main/ghostx/project/resources/aimbot.png
-https://raw.githubusercontent.com/SKEETZEN0X/GhostX-CS2-External/main/ghostx/project/resources/visuals.png
-https://raw.githubusercontent.com/SKEETZEN0X/GhostX-CS2-External/main/ghostx/project/resources/misc.png
-https://raw.githubusercontent.com/SKEETZEN0X/GhostX-CS2-External/main/ghostx/project/resources/config.png
+![Aimbot](https://raw.githubusercontent.com/SKEETZEN0X/GhostX-CS2-External/main/ghostx/project/resources/aimbot.png)
+![Visuals](https://raw.githubusercontent.com/SKEETZEN0X/GhostX-CS2-External/main/ghostx/project/resources/visuals.png)
+![Misc](https://raw.githubusercontent.com/SKEETZEN0X/GhostX-CS2-External/main/ghostx/project/resources/misc.png)
+![Config](https://raw.githubusercontent.com/SKEETZEN0X/GhostX-CS2-External/main/ghostx/project/resources/config.png)
 
 ## Disclaimer & Legal Notice
 
