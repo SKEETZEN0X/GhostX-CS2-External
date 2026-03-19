@@ -16,14 +16,9 @@
 - **Triggerbot** with:
   - Hitchance
   - Delay
-  - Autowall support
-  - Minimum damage threshold
   - Autostop
   - Predictive shot timing
-- Firing filters:
-  - **Visible Only**
-  - **Autowall**
-  - **Minimum Damage**
+- **Visible Only** filter to control when the aimbot / triggerbot fires
 
 ### Visuals (ESP)
 - **Box ESP** — multiple styles:
