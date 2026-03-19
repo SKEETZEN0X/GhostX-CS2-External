@@ -94,5 +94,5 @@ This project is released under the **MIT License** — but remember the legal di
 
 ---
 
-Made with ❤️ for reverse engineering & overlay development enthusiasts.
+Made with ❤️. Made so everyone can add their features or modify de program
 Stay safe. Stay external.
