@@ -5,7 +5,7 @@
 **GhostX** is an **external** overlay-based cheat for CS2 that **never writes** to game memory — it only reads process memory. This design choice significantly reduces detection vectors compared to internal cheats.
 
 > ⚠️ **Educational / research use only.**  
-> Using cheats in matchmaking or VAC-secured servers will result in a ban. The author is **not responsible** for any bans, losses, or consequences from misuse.
+> Using cheats in matchmaking or VAC-secured is against Valve conditions. The author is **not responsible** for any bans, losses, or consequences from misuse.
 
 ## Features
 
